@@ -1,0 +1,170 @@
+{
+  "project_info": {
+    "project_number": "910765293282",
+    "firebase_url": "https://webili.firebaseio.com",
+    "project_id": "webili",
+    "storage_bucket": "webili.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910765293282:android:209932a8c40ccfcbdb28bb",
+        "android_client_info": {
+          "package_name": "com.webiliapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910765293282-kgmbq3ioa3t0qac0t3qoe7v0h14j8uee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webiliapp",
+            "certificate_hash": "ab4390b546f6b320247a903d60c3a9846a58e272"
+          }
+        },
+        {
+          "client_id": "910765293282-qd70f4a1lkh6g286aavm35lquhcm0e3s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webiliapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "910765293282-51dihu1cgj34dkfss16ht76vsid63r9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVBUOZd921DvJsYHh8ODQ4xskDgBltHxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910765293282-51dihu1cgj34dkfss16ht76vsid63r9c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "910765293282-rvtbgq5tp2aba2hi9k5si3our23atb7i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.webiliapp.fooddeliveryapp",
+                "app_store_id": "1546784996"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910765293282:android:f5d03deef389b0f5db28bb",
+        "android_client_info": {
+          "package_name": "com.webiliapp.deliveryboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910765293282-5r684vkta4rnjvjs9fhbipou9qvsr42g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webiliapp.deliveryboy",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "910765293282-m6bbjvsj8gfn0cuddqbk0ogh2qrra3s2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webiliapp.deliveryboy",
+            "certificate_hash": "ab4390b546f6b320247a903d60c3a9846a58e272"
+          }
+        },
+        {
+          "client_id": "910765293282-51dihu1cgj34dkfss16ht76vsid63r9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVBUOZd921DvJsYHh8ODQ4xskDgBltHxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910765293282-51dihu1cgj34dkfss16ht76vsid63r9c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "910765293282-rvtbgq5tp2aba2hi9k5si3our23atb7i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.webiliapp.fooddeliveryapp",
+                "app_store_id": "1546784996"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910765293282:android:5cba3fcf827493fcdb28bb",
+        "android_client_info": {
+          "package_name": "com.webiliapp.food_delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910765293282-2hk26f819sl4l56frid3sa89iea9qq65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webiliapp.food_delivery_app",
+            "certificate_hash": "ab4390b546f6b320247a903d60c3a9846a58e272"
+          }
+        },
+        {
+          "client_id": "910765293282-943oi3157qmhs9jeoqiocoivsn60c9jd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webiliapp.food_delivery_app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "910765293282-51dihu1cgj34dkfss16ht76vsid63r9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVBUOZd921DvJsYHh8ODQ4xskDgBltHxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910765293282-51dihu1cgj34dkfss16ht76vsid63r9c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "910765293282-rvtbgq5tp2aba2hi9k5si3our23atb7i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.webiliapp.fooddeliveryapp",
+                "app_store_id": "1546784996"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
